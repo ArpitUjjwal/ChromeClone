@@ -1,3 +1,3 @@
 # ChromeClone
 
-![alt text](ArpitUjjwal/ChromeClone/Readme/Chromeios.png)
+![alt text](ChromeClone/Readme/Chromeios.png)
